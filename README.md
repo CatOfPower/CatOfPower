@@ -33,16 +33,19 @@
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
   <a href="https://meow.rent/@turquoise" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=8584EC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tryhackme logo"  />
+    <img src="https://img.shields.io/static/v1?message=Mastodon&logo=mastodon&label=&color=8584EC&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="mastodon logo"  />
   </a>
   <a href="https://bsky.app/profile/turquoisex01.bsky.social" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=047BEA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
+    <img src="https://img.shields.io/static/v1?message=Bluesky&logo=bluesky&label=&color=047BEA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="bluesky logo"  />
   </a>
   <a href="https://matrix.to/#/@turquoisex01:matrix.org" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Matrix&logo=matrix&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="matrix logo"  />
   </a>
   <a href="https://www.tumblr.com/turquoisex01" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=tumblr&logo=tumblr&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
+    <img src="https://img.shields.io/static/v1?message=tumblr&logo=tumblr&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="tumblr logo"  />
+  </a>
+  <a href="https://michalkap.itch.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=itch.io&logo=itch.io&label=&color=E45657&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="itch.io logo"  />
   </a>
 </div>
 
